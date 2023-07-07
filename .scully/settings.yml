@@ -1,0 +1,12 @@
+identifier: l5jdsdecq7b186n5
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: myblog
+homeFolder: C:\Users\singh\Documents\Angular_project_2nd_edition_workplace\myblog
+distFolder: dist/myblog
+outDir: >-
+  C:\Users\singh\Documents\Angular_project_2nd_edition_workplace\myblog\dist\static
+handle404: ''
+allowErrorCollect: true
